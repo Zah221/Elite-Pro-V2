@@ -10,8 +10,8 @@ global.location = "Port Harcourt, Nigeria" //ur location
 
 //new
 global.botname = 'ELITE-PRO-V2' //ur bot name
-global.ownernumber = '2348109263390' //ur owner number
-global.ownername = 'ELITEPRO' //ur owner name
+global.ownernumber = '256758103130' //ur owner number
+global.ownername = 'mr pickup lines' //ur owner name
 
 global.themeemoji = '👨‍💻'
 global.wm = "EliteProEmpire"
@@ -19,10 +19,10 @@ global.botscript = 'https://github.com/Elite-MD/Elite-Pro-V2' //script link
 global.elitepropp = 'https://i.ibb.co/svNLtkqf/20250128-021109.jpg' //Change this to your own picture link
 
 global.packname = "Sticker By"
-global.author = "ELITE-PRO-V2\n\n+2348109263390"
-global.creator = "2348109263390@s.whatsapp.net"
+global.author = "mr pickup lines-V2\n\n+256758103130"
+global.creator = "256758103130@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2348109263390"] // Premium User
+global.premium = ["256758103130"] // Premium User
 global.hituet = 0
 //bot sett
 global.typemenu = 'v1' // menu type 'v1' => 'v8'
@@ -31,7 +31,7 @@ global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
 global.welcome = false //welcome/left in groups
 global.anticall = false //bot blocks user when called
-global.autoswview = false //auto status/story view
+global.autoswview = true //auto status/story view
 global.adminevent = false //show promote/demote message
 global.groupevent = false //show update messages in group chat
 
